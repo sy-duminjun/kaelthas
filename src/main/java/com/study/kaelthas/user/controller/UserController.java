@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author qushengxu
- * @description todo
  * @date 2021/4/25 11:34
  **/
 @RestController
